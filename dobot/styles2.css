@@ -1,0 +1,75 @@
+* {
+      margin: 0px;
+      padding: 0px;
+}
+body {
+      background-color:#1a2325;
+      font-size: 14px;
+      font-color: #fff;
+}
+.header { 
+      height: 80px;
+      width: 100%;
+      margin-bottom: 10px;
+}
+.content1 {
+      height: 250px;
+      width: 300px;
+      margin-left: 50px;
+      margin-right: 70px;
+      margin-bottom: 300px; 
+}
+.content2 {
+      height: 250px;
+      width: 300px;
+      margin-left: 50px;
+      margin-right: 70px;
+      margin-bottom: 400px; 
+}
+.content3 {
+      height: 250px;
+      width: 300px;
+      margin-left: 50px;
+      margin-right: 70px;
+      margin-bottom: 100px; 
+}
+.sale1 {
+      height: 0px;
+      width: 500px;
+      margin-left: 550px;
+      margin-right: 70px;
+      margin-bottom: 100px;
+}
+.sale2 {
+      height: 0px;
+      width: 500px;
+      margin-left: 550px;
+      margin-right: 70px;
+      margin-bottom: 20px;
+}
+.sale3 {
+      height: 0px;
+      width: 500px;
+      margin-left: 550px;
+      margin-right: 70px;
+      margin-bottom: 100px;
+}
+h1 {
+      font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
+	font-size: 24px;
+    color: floralwhite;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+      font-size: 10px;
+      color: lightgrey;
+      font-family: font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
+}
+p{
+      font-size: 11px;
+      color: floralwhite;
+      font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
