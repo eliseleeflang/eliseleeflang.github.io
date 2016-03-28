@@ -5,7 +5,7 @@
 body {
       background-color:#1a2325;
       font-size: 14px;
-      font-color: #fff;
+      font-color: #FFF;
 }
 .header { 
       height: 80px;
@@ -103,14 +103,15 @@ h3 {
       color: lightgrey;
       font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
 }
+
+h4 {   
+      font-size: 14 px;
+    font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+      color: #01ccce;
+}
+
 p{
       font-size: 11px;
       color: floralwhite;
       font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-}
-
-p2 {   
-      font-size: 18 px;
-    font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-      color: #01ccce;
 }
