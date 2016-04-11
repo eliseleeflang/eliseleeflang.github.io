@@ -20,13 +20,9 @@ body {
       padding-left: 50px;
 }
 
-.price {
-      margin-top: 30px;
-      padding-bottom: 20px;
-      width: 100px;
-}
 .button {
-      float:right;
+      margin-left: 120px;
+      display: inline-block;
       height: 40px;
       width: 120px;
       background: #01ccce;
@@ -34,7 +30,7 @@ body {
       color: #FFF;
       line-height: 3;
       text-align-last: center;
-      font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+      font-family: 'LFT Etica';
 }
 
 .content1 {
@@ -71,22 +67,32 @@ img.withBorder {
       border: 5px solid #fff;
 }
 
+.bigsale {
+      padding-top: 20px;
+}
 
 .sale1 {
+      display:inline-block;
       padding-top: 100px;
-      align-self: auto; 
+      height: 50%;
+      width: 50%;
 }
 .sale2 {
-      padding-top: 100px;
-      align-self: auto; 
+      display:inline-block;
+      padding-top: 100px; 
+      height: 50%;
+      width: 50%;
 }
 .sale3 {
+      display:inline-block;
       padding-top: 100px;
-      align-self: auto; 
+      height: 50%;
+      width: 50%;
 }
-h1 {
-      font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
-	font-size: 24px;
+h1 {  
+    display: inline-block;
+    font-family: 'QuatroSlab';
+	font-size: 26px;
     color: floralwhite;
 	font-style: normal;
 	font-variant: normal;
@@ -97,17 +103,20 @@ h1 {
 h3 {
       font-size: 10px;
       color: lightgrey;
-      font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
+      font-family: 'QuatroSlab';
 }
 
 h4 {   
-      font-size: 14 px;
-    font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+      font-style: normal;
+      font-weight: 100;
+      font-size: 12px;
+      font-size: book;
+    font-family: 'LFT Etica';
       color: #01ccce;
 }
 
 p{
-      font-size: 11px;
+      font-size: 12px;
       color: floralwhite;
-      font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+      font-family: 'LFT Etica';
 }
